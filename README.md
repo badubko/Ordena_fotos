@@ -6,3 +6,5 @@ and comparing them to the already existing repository which is ordered by year a
 YYYY-MM-DD_some_description
 More explanation comming soon.
 
+It was for no reason that I started writing and documenting these scripts in spanish; Bad choice as
+during most of my career, I used to document everything in english. I believe it's because I'm becoming old...
